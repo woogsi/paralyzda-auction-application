@@ -1,4 +1,4 @@
---\\ AUCTION SYSTEM made by paralyzda for game Build A Toy
+--\\ AUCTION SYSTEM made by paralyzda for Build A Toy
 
 local module = {}
 
@@ -758,4 +758,5 @@ end
 
 --
 return module
+
 
